@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/lomap_en3a/static/css/main.185e1c1d.css",
-    "main.js": "/lomap_en3a/static/js/main.0b99d3ae.js",
+    "main.js": "/lomap_en3a/static/js/main.71926959.js",
     "static/js/787.994511a4.chunk.js": "/lomap_en3a/static/js/787.994511a4.chunk.js",
     "static/media/background_login.jpg": "/lomap_en3a/static/media/background_login.8ad2687c1542b06cf401.jpg",
     "static/media/PatrickHand-Regular.ttf": "/lomap_en3a/static/media/PatrickHand-Regular.ec54a049bdef4be52511.ttf",
     "static/media/new_marker.png": "/lomap_en3a/static/media/new_marker.db3e1414770a33b4af2a.png",
     "index.html": "/lomap_en3a/index.html",
     "main.185e1c1d.css.map": "/lomap_en3a/static/css/main.185e1c1d.css.map",
-    "main.0b99d3ae.js.map": "/lomap_en3a/static/js/main.0b99d3ae.js.map",
+    "main.71926959.js.map": "/lomap_en3a/static/js/main.71926959.js.map",
     "787.994511a4.chunk.js.map": "/lomap_en3a/static/js/787.994511a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.185e1c1d.css",
-    "static/js/main.0b99d3ae.js"
+    "static/js/main.71926959.js"
   ]
 }
